@@ -95,7 +95,7 @@ Here are the packages available in this repository:
   [Prometheus](https://tanzucommunityedition.io/docs/latest/package-readme-prometheus-2.27.0/) /
   [Grafana](https://tanzucommunityedition.io/docs/latest/package-readme-grafana-7.5.7/)
 - `local-knative`: package including
-  [Knative Eventing](https://tanzucommunityedition.io/docs/latest/package-readme-knative-serving-1.0.0/)
+  [Knative Serving](https://tanzucommunityedition.io/docs/latest/package-readme-knative-serving-1.0.0/)
 
 Make sure the package repository is fully reconciled:
 
